@@ -21,6 +21,9 @@
 		2C13B977199D1B1200A99CDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C13B959199D1B1200A99CDE /* UIKit.framework */; };
 		2C13B97F199D1B1300A99CDE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C13B97D199D1B1300A99CDE /* InfoPlist.strings */; };
 		2C13B981199D1B1300A99CDE /* GalaxyQuestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C13B980199D1B1300A99CDE /* GalaxyQuestTests.m */; };
+		2C13B98D199D1BCF00A99CDE /* galaxy1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C13B98A199D1BCF00A99CDE /* galaxy1.jpg */; };
+		2C13B98E199D1BCF00A99CDE /* galaxy2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C13B98B199D1BCF00A99CDE /* galaxy2.jpg */; };
+		2C13B98F199D1BCF00A99CDE /* galaxy3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C13B98C199D1BCF00A99CDE /* galaxy3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		2C13B97C199D1B1300A99CDE /* GalaxyQuestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GalaxyQuestTests-Info.plist"; sourceTree = "<group>"; };
 		2C13B97E199D1B1300A99CDE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2C13B980199D1B1300A99CDE /* GalaxyQuestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GalaxyQuestTests.m; sourceTree = "<group>"; };
+		2C13B98A199D1BCF00A99CDE /* galaxy1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galaxy1.jpg; sourceTree = "<group>"; };
+		2C13B98B199D1BCF00A99CDE /* galaxy2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galaxy2.jpg; sourceTree = "<group>"; };
+		2C13B98C199D1BCF00A99CDE /* galaxy3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galaxy3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +118,9 @@
 		2C13B95B199D1B1200A99CDE /* GalaxyQuest */ = {
 			isa = PBXGroup;
 			children = (
+				2C13B98A199D1BCF00A99CDE /* galaxy1.jpg */,
+				2C13B98B199D1BCF00A99CDE /* galaxy2.jpg */,
+				2C13B98C199D1BCF00A99CDE /* galaxy3.jpg */,
 				2C13B964199D1B1200A99CDE /* AppDelegate.h */,
 				2C13B965199D1B1200A99CDE /* AppDelegate.m */,
 				2C13B967199D1B1200A99CDE /* Main.storyboard */,
@@ -229,7 +238,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C13B96E199D1B1200A99CDE /* Images.xcassets in Resources */,
+				2C13B98D199D1BCF00A99CDE /* galaxy1.jpg in Resources */,
 				2C13B960199D1B1200A99CDE /* InfoPlist.strings in Resources */,
+				2C13B98F199D1BCF00A99CDE /* galaxy3.jpg in Resources */,
+				2C13B98E199D1BCF00A99CDE /* galaxy2.jpg in Resources */,
 				2C13B969199D1B1200A99CDE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
